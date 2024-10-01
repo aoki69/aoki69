@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neilcutter
+- 👋 Hi, I’m @neilcutterr
 - 👀 Like doing stuff
 - 🌱 I’m currently learning C++
 - Knows Python, JavaScript.
