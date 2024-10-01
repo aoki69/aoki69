@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aoki69
+- 👋 Hi, I’m @neilcutter
 - 👀 Like doing stuff
 - 🌱 I’m currently learning C++
 - Knows Python, JavaScript.
